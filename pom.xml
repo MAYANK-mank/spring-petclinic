@@ -60,6 +60,12 @@
     <artifactId>maven-assembly-plugin</artifactId>
     <version>3.4.2</version>
 </dependency>
+<!-- https://mvnrepository.com/artifact/io.spring.javaformat/spring-javaformat-maven-plugin -->
+<dependency>
+    <groupId>io.spring.javaformat</groupId>
+    <artifactId>spring-javaformat-maven-plugin</artifactId>
+    <version>0.0.35</version>
+</dependency>
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-thymeleaf</artifactId>
